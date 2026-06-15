@@ -2,7 +2,7 @@ Projeto de Introdução à Ciência e Engenharia de Dados
 
 
 
-\## Objetivo
+## Objetivo
 
 
 
@@ -10,7 +10,7 @@ Analisar dados históricos de criptomoedas utilizando técnicas de ciência de d
 
 
 
-\## Integrantes
+## Integrantes
 
 
 
@@ -24,7 +24,7 @@ Analisar dados históricos de criptomoedas utilizando técnicas de ciência de d
 
 
 
-\## Estrutura
+## Estrutura
 
 
 
